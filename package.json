@@ -1,0 +1,24 @@
+{
+  "name": "blog-site",
+  "version": "1.0.0",
+  "description": "\"blog site using Node.js\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SweatyKeys/node-blog-site.git"
+  },
+  "author": "Kevin King",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SweatyKeys/node-blog-site/issues"
+  },
+  "homepage": "https://github.com/SweatyKeys/node-blog-site#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "uuid": "^3.3.2"
+  }
+}
